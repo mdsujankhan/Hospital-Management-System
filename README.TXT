@@ -5,6 +5,11 @@ Used Technology:
 ===========================
 Core Java, Java Swing, JDBC, MySQL Database
 
+HOW TO RUN
+========================================
+* At first install Mysql in your  pc and set User name = root and
+  password = 1234
+
 When you build an Java application project that has a main class, the IDE
 automatically copies all of the JAR
 files on the projects classpath to your projects dist/lib folder. The IDE
